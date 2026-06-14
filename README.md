@@ -1,5 +1,5 @@
 # About 
-for enable to use tree command in 42 school pc.
+For enable to use tree command in 42 school Pcs.
 
 ## usage
 ```sh
