@@ -6,7 +6,7 @@ For enable to use tree command in 42 school Pcs.
 cc tree.c -o tree
 
 mkdir -p ~/.local/bin
-cp ./tree ~/.local/bin
+cp ./tree ~/.local/bin/tree
 chmod +x ~/.local/bin/tree
 ```
 and export it to PATH
