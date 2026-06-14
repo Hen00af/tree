@@ -4,7 +4,7 @@ cc tree.c -o tree
 
 mkdir -p ~/.local/bin
 cp ./tree ~/.local/bin
-chmod +x ~/.local/bin
+chmod +x ~/.local/bin/tree
 ```
 and export it to PATH
 
