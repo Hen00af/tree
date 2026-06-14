@@ -1,4 +1,7 @@
-# usage
+#About
+for enable to use tree command in 42 school pc.
+
+## usage
 ```sh
 cc tree.c -o tree
 
